@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joshua Ramírez Villalobos / Sitio de prueba"
+title                    : "Sitio web de prueba de Joshua Ramírez Villalobos"
 title_separator          : "-"
 name                     : &name "Joshua Ramírez Villalobos"
-description              : &description "Estudiante de Itcr"
+description              : &description "Estudiante de y atleta del ITCR"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Reseña Personal"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Josh Ramirez Villalobos"
+  name             : "Joshua Ramirez Villalobos"
   avatar           : "profile.png"
   bio              : "Estudiante de Administración de tecnología de información en el ITCR y atleta"
   location         : "Puntarenas, Osa, Palmar Norte"
