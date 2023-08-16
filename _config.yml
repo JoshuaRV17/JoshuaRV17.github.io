@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "joshua.rv17@estudiantec.cr"
   generatedFields:
     date:
       type               : "date"
@@ -80,26 +80,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Josh Ramirez Villalobos"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Estudiante y atleta"
+  location         : "Puntarenas, Osa, Palmar Norte"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "joshua.rv17@estudiantec.cr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "Joshua Ramírez Villalobos"
   foursquare       :
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "joshua_ramirezv"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
